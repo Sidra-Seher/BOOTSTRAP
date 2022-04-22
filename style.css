@@ -1,0 +1,11 @@
+      
+@media screen AND (max-width: 990px) {
+    .col-md-4{
+        background-color: yellow!important;
+    }
+}
+@media screen AND (max-width: 760px) {
+    .bgBlue{
+        background-color: red!important;
+    }
+}

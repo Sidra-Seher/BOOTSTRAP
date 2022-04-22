@@ -1,0 +1,22 @@
+.header{
+    padding: 11px 0px!important;
+    position: relative;
+}
+.container{
+    padding: 6px 0px!important;
+}
+.navbar{
+    padding: 14px 0px;
+}
+.container-full{
+    display: block;
+}
+.navbar-header{
+padding: 0px 10px;
+width: 20%;
+}
+
+.navbar-brand {
+    font-size: 28px;
+    color: white;
+}
